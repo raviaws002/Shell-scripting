@@ -1,1 +1,1 @@
-Hi I am learning Git and shell scripting
+Hi I am learning Devops in that Git and shell scripting
